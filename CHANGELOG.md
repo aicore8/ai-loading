@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.6](https://github.com/aifivem/ai-loading/compare/v0.1.5...v0.1.6) (2026-11-15)
+
+
+### Miscellaneous Chores
+
+* **web:** ship the Chromium 144 build, without the CEF 103 colour fallbacks, built on the bun runtime ([1c4dc79](https://github.com/aifivem/ai-loading/commit/1c4dc796fabc616e7921cdbc343733bade15c8cc))
+
 ## [0.1.5](https://github.com/aifivem/ai-loading/compare/v0.1.4...v0.1.5) (2026-11-02)
 
 
